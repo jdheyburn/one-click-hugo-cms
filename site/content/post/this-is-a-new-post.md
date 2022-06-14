@@ -3,6 +3,7 @@ title: This is a new post
 date: 2022-06-12T07:43:51.975Z
 description: Some quick description
 image: https://jdheyburn.co.uk/images/me.jpg
+mixcloud: true
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ultrices neque vel felis consectetur laoreet. Ut tempus tincidunt scelerisque. Nullam pretium, libero at tempor gravida, erat nisl gravida urna, eget consectetur elit metus eget ipsum. Praesent vitae scelerisque sem, ut gravida enim. Cras laoreet nunc eu ornare dictum. Curabitur aliquam vitae ipsum nec semper. Pellentesque dui nisl, hendrerit vel tortor eget, auctor finibus nunc.
 
